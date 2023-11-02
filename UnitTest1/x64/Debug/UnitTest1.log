@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\Lenovo\Desktop\лаби\АП\lab_6.4(2)\lab_6.4(2)\Source.cpp(71,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\лаби\АП\lab_6.4(2)\lab_6.4(2)\Source.cpp(71,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  UnitTest1.vcxproj -> C:\Users\Lenovo\Desktop\лаби\АП\lab_6.4(2)\x64\Debug\UnitTest1.dll
